@@ -1,6 +1,7 @@
 # iCaRL CIFAR-100 Backdoor
 
 Continual learning with **iCaRL** on CIFAR-100, with a **Narcissus** backdoor attack injected into Task-0 training data.
+My code was majority run in notebooks for ease of testing so there may be unused functions lying around. Also avalanche is suprisingly difficult to deconstruct and reconstruct a dataset.
 
 ## Setup
 
